@@ -61,7 +61,7 @@ const Login = () => {
 		</div>
 	);
 };
-export default Login;https://meet.google.com/vsc-kgef-szf
+export default Login;
 
 // STARTER CODE FOR THIS FILE
 // const Login = () => {
